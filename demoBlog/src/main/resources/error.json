@@ -1,0 +1,39 @@
+{
+	"Errors": [
+		{
+			"Id": 0,
+			"Message": "Invalid Request",
+			"Code": "INVALID_REQUEST"
+		},
+		{
+			"Id": 1,
+			"Message": "User not found",
+			"Code": "USER_NOT_FOUND"
+		},
+		{
+			"Id": 2,
+			"Message": "Provided Blog name is Already in use",
+			"Code": "DUPLICATE_BLOG_NAME"
+		},
+		{
+			"Id": 3,
+			"Message": "Blog Not Found ",
+			"Code": "BLOG_NOT_FOUND"
+		},
+		{
+			"Id": 4,
+			"Message": "Article Not Found",
+			"Code": "ARTICLE_NOT_FOUND"
+		},
+		{
+			"Id": 5,
+			"Message": "Deletion Failed",
+			"Code": "DELETION_FAILED"
+		},
+		{
+			"Id": 6,
+			"Message": "Insertion Failed",
+			"Code": "INSERTION_FAILED"
+		}
+	]
+}
